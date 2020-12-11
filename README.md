@@ -1,2 +1,2 @@
 # Space-Battle
-A simple two-player game written Python
+A simple two-player game written in Python.
