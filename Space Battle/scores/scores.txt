@@ -70,3 +70,6 @@ Greatest Consecutive Kills: 8 - 2
 Total Kills: 8 - 0
 Greatest Consecutive Kills: 8 - 0
 
+Total Kills: 2 - 1
+Greatest Consecutive Kills: 1 - 1
+
